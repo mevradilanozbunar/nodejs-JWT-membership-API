@@ -1,0 +1,35 @@
+# Dependencies
+/node_modules
+
+# Logs
+logs
+*.log
+
+# Environment variables
+.env
+.env.local
+
+# Build files
+/build
+
+# Dependency directory
+/.pnp
+.pnp.js
+
+# Debug files
+npm-debug.log*
+
+# Local configuration files
+.idea
+
+# Local server configuration files
+.vscode
+
+# macOS files
+.DS_Store
+
+# Editor configuration
+.editorconfig
+
+# OS-specific files
+Thumbs.db
