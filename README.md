@@ -40,7 +40,7 @@ Bu proje, Node.js kullanılarak geliştirilmiş bir üyelik sistemi API'si sağl
    npm start
    ``` 
 
-## Endpoints (Rotalar)
+## Endpoints
 
 - `POST /api/login`: Kullanıcı girişi için
 - `POST /api/register`: Kullanıcı kaydı için
